@@ -47,5 +47,5 @@ To use Power BI for creating interactive dashboards that highlight key business 
 
 ---
 
-👨‍💻 **Created by:** *Chinmay Gajanan Tangade*  
+👨‍💻 **Created by:** *Raj Uday Shinde*  
 🎓 *B.E. in Artificial Intelligence and Data Science (SRTTC College)*
